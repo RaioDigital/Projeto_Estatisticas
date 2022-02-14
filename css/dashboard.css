@@ -1,0 +1,32 @@
+
+body{
+    background-color: #fff;
+    padding-bottom: 5px;
+}
+
+.container {
+    padding: 5px 0px 5px 0px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #fff;
+    height: auto;
+    
+  }
+
+  .navbar {
+    margin: auto;
+    margin: 10px 0px 10px 10px;
+    padding: 5px 0px 5px 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+  }
+
+  navbar-brand{
+    background-color: lawngreen;
+  }
+
+  img {
+    width:60px;
+    height: 40px;
+  }
